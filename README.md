@@ -1,16 +1,14 @@
-# to_do
+# To Do
 
-My tasks is an app that helps in organizing your daily task 
+  To do is an app that helps in organizing your daily task 
+![2](https://user-images.githubusercontent.com/47574547/77835566-0ea8d980-715f-11ea-9c4b-63e2f77b43ee.jpg)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_1585362586](https://user-images.githubusercontent.com/47574547/77835537-b96cc800-715e-11ea-844d-3c3dc4327a73.png)
+![Screenshot_1585362377](https://user-images.githubusercontent.com/47574547/77835532-b07bf680-715e-11ea-86fd-d512f363861f.png)
+![Screenshot_1585362033](https://user-images.githubusercontent.com/47574547/77835529-a3f79e00-715e-11ea-9400-8c97b5a8ac41.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Tech
+  Developed using dart and flutter framework
